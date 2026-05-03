@@ -1,5 +1,5 @@
 <div align="center">
-![baner](https://i.pinimg.com/1200x/5d/d5/9f/5dd59fa3a2be962bc0ae33ba4334271a.jpg)
+![banner](https://i.pinimg.com/1200x/5d/d5/9f/5dd59fa3a2be962bc0ae33ba4334271a.jpg)
 
 # Hey, I'm Zack 👋
 
