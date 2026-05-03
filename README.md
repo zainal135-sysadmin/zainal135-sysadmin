@@ -44,7 +44,7 @@ I'm a fresh developer with a deep interest in backend engineering and AI-driven 
 
 ### 🔗 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Instagram](https://www.instagram.com/zainal_msr?igsh=MXR0ZHliaTVxMTFmdQ==)
 
 ---
 
