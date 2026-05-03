@@ -1,4 +1,5 @@
 ![banner](https://i.pinimg.com/1200x/5d/d5/9f/5dd59fa3a2be962bc0ae33ba4334271a.jpg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zainal_msr?igsh=MXR0ZHliaTVxMTFmdQ==)
 <div align="center">
 
 # Hey, I'm Zack 👋
@@ -40,15 +41,6 @@ I'm a fresh developer with a deep interest in backend engineering and AI-driven 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackMust&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-### 🔗 Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zainal_msr?igsh=MXR0ZHliaTVxMTFmdQ==)
-
----
-
 <div align="center">
 
 *"The best automation is the one you don't notice — it just works."*
